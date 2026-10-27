@@ -1,4 +1,4 @@
-# Olá! Eu sou a Sofia 👋
+# Olá! Me chamo Sofia Maciel👋
 
 🎓 **Estudante de Engenharia da Computação** apaixonada por tecnologia, resolução de problemas e desenvolvimento de software.  
 💡 Meu foco é criar soluções práticas que conectem o código às necessidades reais do dia a dia, desde interfaces web até a lógica de sistemas e automações.
